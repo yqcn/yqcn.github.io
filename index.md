@@ -12,4 +12,4 @@
 测试中。。。
   
   
-##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证，且应标明所有作者。
+##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议，且应标明所有作者。
