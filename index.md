@@ -1,4 +1,4 @@
-# Non profit organizations in Yueqing
+## Nonprofit organizations in Yueqing
 
 ## 活动
 
@@ -12,4 +12,4 @@
 测试中。。。
   
   
-##### 授权协议 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，且应依次清楚标明所有作者。
+##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证，且应标明所有作者。
